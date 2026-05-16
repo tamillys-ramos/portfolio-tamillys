@@ -7,16 +7,16 @@ Bem-vindo ao meu portfólio acadêmico e profissional.
 Organizar projetos acadêmicos e pessoais utilizando Git e GitHub.
 
 ## Estrutura
-- Projetos acadêmicos
+- Projeto academico
 - Projetos pessoais
 - Documentação
 - Certificados
 
-## Tecnologias
+## Tecnologia usada
 - HTML
 - CSS
 - Git
 - GitHub
 
 ## Contato
-LinkedIn: www.linkedin.com/in/tamillys-ramos-24a085301
+Linkedin: www.linkedin.com/in/tamillys-ramos-24a085301
